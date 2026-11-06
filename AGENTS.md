@@ -31,6 +31,6 @@
 
 ## 5. Current Project Status & Next Steps
 - [x] GitHub repository created (`FortemsM/TroevenBoek`) with `GPL-3.0` license, `README.md`, and `.gitignore`.
-- [ ] Scaffold the Expo (TypeScript) project in the repository root.
+- [x] Scaffold the Expo (TypeScript) project in the repository root.
 - [ ] Define core data models for players, sessions, multi-game scoreboards, and game-specific rulesets (starting with Belgian classics like *Wiezen* / *Manillen*).
 - [ ] Build the core UI (session creation, player selection, round score entry, live scoreboard).

@@ -31,3 +31,6 @@ expo-env.d.ts
 .DS_Store
 Thumbs.db
 *.swp
+
+# System harness skills
+/skills/
