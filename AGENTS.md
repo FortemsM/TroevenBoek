@@ -29,8 +29,11 @@
 - Always verify that commits and GitHub operations use the personal account **`FortemsM`** (`manu.fortems@outlook.be`), **not** the school account (`UA-ManuFortems`).
 - Can check/switch GitHub CLI account via `gh auth status` / `gh auth switch -u FortemsM`.
 
-## 5. Current Project Status & Next Steps
-- [x] GitHub repository created (`FortemsM/TroevenBoek`) with `GPL-3.0` license, `README.md`, and `.gitignore`.
-- [x] Scaffold the Expo (TypeScript) project in the repository root.
-- [ ] Define core data models for players, sessions, multi-game scoreboards, and game-specific rulesets (starting with Belgian classics like *Wiezen* / *Manillen*).
-- [ ] Build the core UI (session creation, player selection, round score entry, live scoreboard).
+## 5. Current Project Status & Roadmap Reference
+- **Comprehensive Roadmap**: See [ROADMAP.md](./ROADMAP.md) for full phase breakdown.
+- **Phase 1 Progress**:
+  - [x] Initial GitHub repository created (`GPL-3.0`, `.gitignore`, `README.md`).
+  - [x] Scaffold Expo (TypeScript) project and verified on iPhone with Expo Go.
+  - [x] Established product roadmap ([ROADMAP.md](./ROADMAP.md)).
+  - [ ] Refine rules & scoring models for **Kleurenwiezen**, **Kingen**, and **Chinees Poepen**.
+  - [ ] Build the setup & single-phone score entry user flow.
